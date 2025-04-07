@@ -15,7 +15,7 @@
 	<xsd:complexType name="HotelType">
 		<xsd:sequence>
 			<xsd:element name="Name" type="xsd:string"/>
-			<xsd:element name="Phone" type="xsd:string" maxOccurs="unbounded"/>
+			<xsd:element name="Phone" type="string" maxOccurs="unbounded"/>
 			<xsd:element name="Address" type="AddressType"/>
 			<xsd:element name="Rating" type="xsd:decimal" minOccurs="0"/>
 		</xsd:sequence>
