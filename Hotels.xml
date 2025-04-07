@@ -54,7 +54,7 @@
 		<Name>Rosewood Hotel</Name>
 		<Phone>805-582-8182</Phone>
 		<Phone>949-510-9817</Phone>
-		<Address NearstAirport="Camarillo Airport">
+		<Address>
 			<Number>3059</Number>
 			<Street>Leisure Lane</Street>
 			<City>Simi Valley</City>
@@ -91,7 +91,7 @@
 		<Hotel>
 			<Name>Inn Da Club</Name>
 			<Phone>831-796-6287</Phone>
-			<Address NearstAirport="Salinas Municipal Airport">
+			<Address>
 				<Number>2172</Number>
 				<Street>Cemetery Street</Street>
 				<City>Salinas</City>
