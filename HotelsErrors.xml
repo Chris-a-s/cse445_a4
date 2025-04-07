@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotel>
+	<Hotel>
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+		<Rating>4.2</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>Embassy Suites</Name>
+		<Phone>855-605-0319</Phone>
+		<Address NearestAirport="Denver International Airport">
+			<Number>1420</Number>
+			<Street>Stout Street</Street>
+			<City>Denver</City>
+			<State>CO</State>
+			<Zip>80202</Zip>
+		</Address>
+		<Rating>4.4</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>The Mexik Inn</Name>
+		<Address NearestAirport="Albuquerque International Sunport">
+			<Number>308</Number>
+			<Street>Nergra Arroyo Lane</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87111</Zip>
+		</Address>
+		<Rating>4.8</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>Summer Field Suites</Name>
+		<Phone>215-625-4888</Phone>
+		<Address NearestAirport="Philadelphia International Airport">
+			<Number>1352</Number>
+			<Street>Green Palm Terrace</Street>
+			<City>Philidelphia</City>
+			<State>Pennsylvania</State>
+			<Zip>19108</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Rosewood Hotel</Name>
+		<Phone>805-582-8182</Phone>
+		<Phone>949-510-9817</Phone>
+		<Address NearestAirport="Camarillo Airport">
+			<Number>3059</Number>
+			<Street>Leisure Lane</Street>
+			<City>Simi Valley</City>
+			<State>CA</State>
+			<Zip>93065</Zip>
+		<Rating>3.1</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>Fletcher Inn</Name>
+		<Phone>214-312-7688</Phone>
+		<Address NearestAirport="DFW">
+			<Number>3476</Number>
+			<Street>Fancher Drive</Street>
+			<City>Dallas</City>
+			<State>TX</State>
+			<Zip>75211</Zip>
+		</Address>
+		<Rating>4.9</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>The Last Resort</Name>
+		<Phone>804-243-2706</Phone>
+		<Phone>757-556-0451</Phone>
+		<Address NearestAirport="RIA">
+			<Number>484</Number>
+			<Street>Coulter Lane</Street>
+			<City>Richmond</City>
+			<State>VA</State>
+			<Zip>23224</Zip>
+		</Address>
+		<Rating>1.2</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>Inn Sanity</Name>
+		<Phone>225-987-8968</Phone>
+		<Address NearestAirport="Baton Rouge Metropolitan">
+			<Number>1106</Number>
+			<Street>Coventry Court</Street>
+			<City>Baton Rouge</City>
+			<State>LA</State>
+			<Zip>70806</Zip>
+		</Address>
+		<Hotel>
+			<Name>Inn Da Club</Name>
+			<Phone>831-796-6287</Phone>
+			<Address NearestAirport="Salinas Municipal Airport">
+				<Number>2172</Number>
+				<Street>Cemetery Street</Street>
+				<City>Salinas</City>
+				<State>CA</State>
+				<Zip>93901</Zip>
+			</Address>
+			<Rating>0.5</Rating>
+		</Hotel>
+		<Hotel>
+			<Name>Knights Inn Shining Armor</Name>
+			<Name>Grizzly Bear Hibernation Inn</Name>
+			<Phone>907-737-3643</Phone>
+			<Phone>907-200-2464</Phone>
+			<Address NearestAirport="Napaskiak Airport-Pka">
+				<Number>1059</Number>
+				<Street>Timbercrest Road</Street>
+				<City>Napaskiak</City>
+				<State>AK</State>
+				<Zip>99559</Zip>
+			</Address>
+		</Hotel>
+	</Hotel>
+</Hotels>
