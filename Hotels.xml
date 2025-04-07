@@ -122,5 +122,15 @@
 			<Zip>70806</Zip>
 		</Address>
 	</Hotel>
-		
+	<Hotel>
+		<Name>Going Inn</Name>
+		<Phone>180-022-128</Phone>
+		<Address NearstAirport="Goofy Last Minute Airport">
+			<Number>144</Number>
+			<Street>Lawton Street</Street>
+			<City>Randolph</City>
+			<State>MA</State>
+			<Zip>56910</Zip>
+		</Address>
+	</Hotel>	
 </Hotels>
