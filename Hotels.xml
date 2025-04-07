@@ -88,39 +88,39 @@
 		</Address>
 		<Rating>1.2</Rating>
 	</Hotel>
-		<Hotel>
-			<Name>Inn Da Club</Name>
-			<Phone>831-796-6287</Phone>
-			<Address NearstAirport="Salinas Municipal Airport">
-				<Number>2172</Number>
-				<Street>Cemetery Street</Street>
-				<City>Salinas</City>
-				<State>CA</State>
-				<Zip>93901</Zip>
-			</Address>
-			<Rating>0.5</Rating>
-		</Hotel>
-		<Hotel>
-			<Name>Knights Inn Shining Armor</Name>
-			<Phone>907-737-3643</Phone>
-			<Phone>907-200-2464</Phone>
-			<Address NearstAirport="Napaskiak Airport-Pka">
-				<Number>1059</Number>
-				<Street>Timbercrest Road</Street>
-				<City>Napaskiak</City>
-				<State>AK</State>
-				<Zip>99559</Zip>
-			</Address>
-		</Hotel>
-		<Hotel>
-			<Name>Inn Sanity</Name>
-			<Phone>225-987-8968</Phone>
-			<Address NearstAirport="Baton Rouge Metropolitan">
-				<Number>1106</Number>
-				<Street>Coventry Court</Street>
-				<City>Baton Rouge</City>
-				<State>LA</State>
-				<Zip>70806</Zip>
-			</Address>
-		</Hotel>
+	<Hotel>
+		<Name>Inn Da Club</Name>
+		<Phone>831-796-6287</Phone>
+		<Address NearstAirport="Salinas Municipal Airport">
+			<Number>2172</Number>
+			<Street>Cemetery Street</Street>
+			<City>Salinas</City>
+			<State>CA</State>
+			<Zip>93901</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Knights Inn Shining Armor</Name>
+		<Phone>907-737-3643</Phone>
+		<Phone>907-200-2464</Phone>
+		<Address NearstAirport="Napaskiak Airport-Pka">
+			<Number>1059</Number>
+			<Street>Timbercrest Road</Street>
+			<City>Napaskiak</City>
+			<State>AK</State>
+			<Zip>99559</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Inn Sanity</Name>
+		<Phone>225-987-8968</Phone>
+		<Address NearstAirport="Baton Rouge Metropolitan">
+			<Number>1106</Number>
+			<Street>Coventry Court</Street>
+			<City>Baton Rouge</City>
+			<State>LA</State>
+			<Zip>70806</Zip>
+		</Address>
+	</Hotel>
+		
 </Hotels>
