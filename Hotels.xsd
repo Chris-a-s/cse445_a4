@@ -8,7 +8,7 @@
 					<complexType>
 						<sequence>
 							<element name="Name" type="string" minOccurs="1" />
-							<element name="Phone" type="string" minOccurs="1"/>
+							<element name="Phone" type="string" minOccurs="1" maxOccurs="unbounded"/>
 							<element name="Address" minOccurs="1">
 								<complexType>
 									<sequence>
