@@ -18,7 +18,7 @@
 										<element name="State" type="string"/>
 										<element name="Zip" type="int"/>
 									</sequence>
-									<attribute name="NearstAirport" type="string" use="required"/>
+									<attribute name="NearstAirport" type="string"/>
 								</complexType>
 							</element>
 							<element name="Rating" type="decimal" minOccurs="0"/>
