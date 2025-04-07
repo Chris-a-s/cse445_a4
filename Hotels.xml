@@ -88,16 +88,6 @@
 		</Address>
 		<Rating>1.2</Rating>
 	</Hotel>
-	<Hotel>
-		<Name>Inn Sanity</Name>
-		<Phone>225-987-8968</Phone>
-		<Address NearestAirport="Baton Rouge Metropolitan">
-			<Number>1106</Number>
-			<Street>Coventry Court</Street>
-			<City>Baton Rouge</City>
-			<State>LA</State>
-			<Zip>70806</Zip>
-		</Address>
 		<Hotel>
 			<Name>Inn Da Club</Name>
 			<Phone>831-796-6287</Phone>
@@ -122,5 +112,15 @@
 				<Zip>99559</Zip>
 			</Address>
 		</Hotel>
-	</Hotel>
+		<Hotel>
+			<Name>Inn Sanity</Name>
+			<Phone>225-987-8968</Phone>
+			<Address NearestAirport="Baton Rouge Metropolitan">
+				<Number>1106</Number>
+				<Street>Coventry Court</Street>
+				<City>Baton Rouge</City>
+				<State>LA</State>
+				<Zip>70806</Zip>
+			</Address>
+		</Hotel>
 </Hotels>
