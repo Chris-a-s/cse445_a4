@@ -45,7 +45,7 @@
 		<Address NearstAirport="Philadelphia International Airport">
 			<Number>1352</Number>
 			<Street>Green Palm Terrace</Street>
-			<City>Philadelphia</City>
+			<City>Philidelphia</City>
 			<State>Pennsylvania</State>
 			<Zip>19108</Zip>
 		</Address>
@@ -54,7 +54,7 @@
 		<Name>Rosewood Hotel</Name>
 		<Phone>805-582-8182</Phone>
 		<Phone>949-510-9817</Phone>
-		<Address>
+		<Address NearstAirport="Camarillo Airport">
 			<Number>3059</Number>
 			<Street>Leisure Lane</Street>
 			<City>Simi Valley</City>
@@ -91,7 +91,7 @@
 		<Hotel>
 			<Name>Inn Da Club</Name>
 			<Phone>831-796-6287</Phone>
-			<Address>
+			<Address NearstAirport="Salinas Municipal Airport">
 				<Number>2172</Number>
 				<Street>Cemetery Street</Street>
 				<City>Salinas</City>
