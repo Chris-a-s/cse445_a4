@@ -29,7 +29,7 @@
 			<xsd:element name="State" type="xsd:string"/>
 			<xsd:element name="Zip" type="xsd:int"/>
 		</xsd:sequence>
-		<xsd:attribute name="NearstAirport" type="xsd:string" use="optional"/>
+		<xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
 	</xsd:complexType>
 
 </xsd:schema>
