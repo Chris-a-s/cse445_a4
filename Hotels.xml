@@ -1,4 +1,7 @@
-﻿<Hotels xmlns="https://chris-a-s.github.io/cse445_a4/Hotels"
+﻿
+<!-- Name: Chris Schroeder-->
+<!-- Description: These are the 11 hotels. check some of the names for a laugh-->
+<Hotels xmlns="https://chris-a-s.github.io/cse445_a4/Hotels"
 	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	   xsi:schemaLocation="https://chris-a-s.github.io/cse445_a4/Hotels https://chris-a-s.github.io/cse445_a4/Hotels.xsd">
 	<Hotel>

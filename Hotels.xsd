@@ -1,4 +1,6 @@
-﻿<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+﻿<!-- Name: Chris Schroeder-->
+<!-- Description: This is the schema file, I did something similar to the classes file as asked for in the project pdf-->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             xmlns="https://chris-a-s.github.io/cse445_a4/Hotels"
             targetNamespace="https://chris-a-s.github.io/cse445_a4/Hotels"
             elementFormDefault="qualified"
